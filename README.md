@@ -1,4 +1,6 @@
 # PiPClient
+<img width="958" height="496" alt="Gemini_Generated_Image_pirbwtpirbwtpirb" src="https://github.com/user-attachments/assets/d70fd556-fe64-4131-aa59-e355314eba96" />
+
 
 ## What is PiP Client?
 
