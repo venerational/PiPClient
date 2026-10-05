@@ -9,6 +9,8 @@ customizable HUD and visual modules in one place. Every module can be toggled on
 off from a draggable ClickGUI, and colors, sizes and positions are adjustable.
 
 <details>
+<summary><b>Explanation of all the Modules</b></summary>
+<details>
 <summary><b>HUD</b></summary>
 
 - FPS, CPS, ping, playtime and reach display
@@ -40,6 +42,7 @@ off from a draggable ClickGUI, and colors, sizes and positions are adjustable.
 - Crash analyzer that explains crash reports
 - Mod Menu integration
 
+</details>
 </details>
 
 --------------------------------------------------------------------------------
