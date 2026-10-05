@@ -1,5 +1,46 @@
 # PiPClient
 
+## What is PiP Client?
+
+PiP Client is a client-side Fabric mod for Minecraft that bundles a large set of
+customizable HUD and visual modules in one place. Every module can be toggled on or
+off from a draggable ClickGUI, and colors, sizes and positions are adjustable.
+
+<details>
+<summary><b>HUD</b></summary>
+
+- FPS, CPS, ping, playtime and reach display
+- Keystrokes display
+- Armor HUD, effect timers and item counters
+- Totem and pop counters
+- Customizable watermark, hotbar, scoreboard and crosshair
+
+</details>
+
+<details>
+<summary><b>Visuals</b></summary>
+
+- Brightness, custom fog, skybox, time changer and snow
+- Block outline, block opacity and block color options
+- Hitbox display, player glow and transparent players
+- Motion blur, greyscale and enchant glint tint
+- Hurt cam, hand sway and damage tint tweaks
+- Custom fonts and GUI themes
+
+</details>
+
+<details>
+<summary><b>Extras</b></summary>
+
+- Cosmetics (capes, emotes, headwear)
+- Built-in music player
+- Profile presets for saving and switching setups
+- Crash analyzer that explains crash reports
+- Mod Menu integration
+
+</details>
+
+
 The Developer of the Utility Mod "PiPClient", which has aesthetically pleasing features for CrystalPvP, claims that the source code of the mod is public, as seen in the image below:
 
 
