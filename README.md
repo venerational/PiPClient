@@ -42,10 +42,8 @@ off from a draggable ClickGUI, and colors, sizes and positions are adjustable.
 
 --------------------------------------------------------------------------------
 
-Why am I leaking the source?
-
 <details>
-<summary><b></b></summary>
+<summary><b>Why am I leaking the source?</b></summary>
 
 The Developer of the Utility Mod "PiPClient", which has aesthetically pleasing features for CrystalPvP, claims that the source code of the mod is public, as seen in the image below:
 
