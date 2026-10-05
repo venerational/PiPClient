@@ -1,0 +1,11 @@
+{
+  "key.lyfwclient.clickgui": "Open ClickGUI",
+  "key.lyfwclient.hudeditor": "Open HUD Editor",
+  "key.lyfwclient.togglebrightness": "Toggle Brightness",
+  "key.lyfwclient.resetpopcounter": "Reset Pop Counter",
+  "key.lyfwclient.previewkilleffect": "Preview Kill Effect",
+  "key.lyfwclient.emote": "Play Emote",
+  "key.lyfwclient.emotewheel": "Emote Wheel",
+  "key.category.lyfw-client.keys": "Pip Client",
+  "screen.lyfwclient.title": "Pip Client"
+}

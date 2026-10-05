@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "lyfw-client",
+	"version": "${version}",
+	"name": "Pip Client",
+	"description": "Personal customizable HUD/utility client: toggleable modules with a draggable ClickGUI, adjustable colors, sizes and positions.",
+	"authors": [
+		"lyfw"
+	],
+	"license": "MIT",
+	"icon": "assets/lyfw-client/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"preLaunch": [
+			"dev.lyfw.lyfwclient.crash.CrashWatcher"
+		],
+		"client": [
+			"dev.lyfw.lyfwclient.LyfwClient"
+		],
+		"modmenu": [
+			"dev.lyfw.lyfwclient.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"lyfw-client.mixins.json"
+	],
+	"accessWidener": "lyfw-client.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": ">=1.21.9 <1.22",
+		"fabric-rendering-v1": "*",
+		"fabric-key-binding-api-v1": "*",
+		"fabric-lifecycle-events-v1": "*",
+		"fabric-resource-loader-v1": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
